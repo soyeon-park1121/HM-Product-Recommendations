@@ -21,6 +21,7 @@ The repo is structured as follows: Notebooks are grouped according to their seri
 Four different algorithms were implemented: Naive method, content-based filtering, collaboriative filtering, and hybrid method. Naive method is to use the top ten most popular products across all customers and recommending those to everyone. While the content-based filtering uses item features to recommend other items similar to what the user likes, collaborative filtering is solely based on the past interactions that have been recorded between users and items, in order to produce new recommendations. Lastly, for naive hybrid recommender system, we extracted top 5 recommendations from the each model we developed previously, and combined them. 
 
 ## Results
+<img width="234" alt="Screen Shot 2022-05-07 at 7 11 28 AM" src="https://user-images.githubusercontent.com/69788782/167253853-f8b2b76e-60bd-4b70-824e-0f0f4629d23c.png">
 
 
 ## Contact Info
