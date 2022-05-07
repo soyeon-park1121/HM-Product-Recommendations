@@ -9,6 +9,7 @@ H&M is a large fashion company with 53 online stores and around 4,850 markets. I
 
 ## Data
 The dataset we used for this project has been provided by H\&M group. The official name of this dataset is 'H\&M Personalized Fashion Recommendations', and we extracted it from Kaggle.
+
 Data source: https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations
 
 ## Repo Structure
