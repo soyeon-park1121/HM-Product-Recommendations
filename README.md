@@ -22,7 +22,7 @@ Four different algorithms were implemented: Naive method, content-based filterin
 
 ## Results
 <img width="234" alt="Screen Shot 2022-05-07 at 7 11 28 AM" src="https://user-images.githubusercontent.com/69788782/167253853-f8b2b76e-60bd-4b70-824e-0f0f4629d23c.png">
-
+All three different models show better accuracy than the naive method. Content-based filtering shows the lowest accuracy among our models. Collaborative filtering shows the second highest accuracy. This means that for H&M recommender system, customers and items interaction is more important feature than similarity between products in terms of recommending next potential items to customers. The naive hybrid recommender system shows the highest accuaracy, which was 26.3%.
 
 ## Contact Info
 Amanda Konet, Graduate Student
